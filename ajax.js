@@ -230,12 +230,12 @@ function (e, t) {
 			target: 0,
 			chunk: 50,
 			text: {
-				title: "Search results for query <em>%s%</em>",
+				title: "Search results for keywords <em>%s%</em>",
 				loading: "Searching&hellip;",
-				previous: "Previous",
+				previous: "Prev",
 				next: "Next",
-				empty: "No results for query <em>%s%</em>.",
-				end: "No more results for query <em>%s%</em>."
+				empty: "No results for keywords <em>%s%</em>.",
+				end: "No more results for keywords <em>%s%</em>."
 			},
 			query: {
 				alt: "json",
